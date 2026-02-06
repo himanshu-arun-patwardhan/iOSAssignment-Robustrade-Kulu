@@ -35,7 +35,9 @@ final class APIService: APIServiceProtocol {
                 completion(.failure(error))
             }
             
-        }.resume()
+        }
+        .resume()
+        
     }
     
 }
