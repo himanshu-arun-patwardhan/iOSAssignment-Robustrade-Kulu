@@ -7,7 +7,7 @@
 
 import UIKit
 
-final class ProductDetailVC: UIViewController {
+final class DetailViewController: UIViewController {
     
     private let product: Product
     
