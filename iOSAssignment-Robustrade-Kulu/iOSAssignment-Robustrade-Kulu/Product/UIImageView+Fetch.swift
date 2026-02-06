@@ -28,7 +28,10 @@ extension UIImageView {
                 self.image = img
             }
             
-        }.resume()
+        }
+        .resume()
+        
     }
+    
 }
 
