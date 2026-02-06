@@ -14,7 +14,7 @@ protocol ViewModelDelegate: AnyObject {
 }
 
 
-final class ProductViewModel {
+final class ViewModel {
     
     private let service: APIServiceProtocol
     weak var delegate: ViewModelDelegate?
