@@ -60,7 +60,7 @@ extension ViewController: UITableViewDataSource, UITableViewDelegate {
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        let vc = ProductDetailVC(product: viewModel.products[indexPath.row])
+        let vc = DetailViewController(product: viewModel.products[indexPath.row])
         navigationController?.pushViewController(vc, animated: true)
     }
     
