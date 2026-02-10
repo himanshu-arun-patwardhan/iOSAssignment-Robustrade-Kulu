@@ -1,5 +1,11 @@
 # iOSAssignment-Robustrade-Kulu
 
+---
+SwiftUI version :-
+
+https://github.com/himanshu-arun-patwardhan/iOSAssignment-Robustrade-Kulu-SwiftUI
+
+---
 # 📱 iOS Assignment – Paginated UITableView with Networking
 
 ## 🚀 Objective
@@ -71,3 +77,20 @@ that product
 - Smooth scrolling with lazy load
 - Responsive error & loading states
 - Clean, readable, and modular code
+
+
+
+
+---
+---
+
+### Screenshots
+
+Screen-1
+
+<img width="602" height="1310" alt="view - 1" src="https://github.com/user-attachments/assets/1fa7fb7d-39ee-4b7f-96da-687872484a45" />
+
+Screen-2
+
+<img width="602" height="1310" alt="view -2" src="https://github.com/user-attachments/assets/8bf3efc7-07e3-49e9-9a00-b2d69613150a" />
+
